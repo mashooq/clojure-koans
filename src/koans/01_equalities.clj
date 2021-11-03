@@ -24,16 +24,4 @@
   (= __ (not (= 1 nil)))
 
   "Strings, and keywords, and symbols: oh my!"
-  (= __ (= "hello" :hello 'hello))
-
-  "Make a keyword with your keyboard"
-  (= :hello (keyword __))
-
-  "Symbolism is all around us"
-  (= 'hello (symbol __))
-
-  "What could be equivalent to nothing?"
-  (= __ nil)
-
-  "When things cannot be equal, they must be different"
-  (not= :fill-in-the-blank __))
+  (= __ (= "hello" :hello 'hello)))

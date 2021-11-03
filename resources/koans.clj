@@ -6,10 +6,7 @@
                       true
                       true
                       false
-                      "hello"
-                      "hello"
-                      nil
-                      3]}]
+                      ]}]
 
  ["02_strings" {"__" ["hello"
                 "world"
@@ -20,20 +17,7 @@
                 false
                 6 11
                 "123"
-                ", "
-                "1" "2" "3"
-                "olleh"
-                "hello"
-                13
-                nil
-                "hello world"
-                true
-                false
-                false
-                "a"
-                true
-                true
-                false]}]
+                ]}]
 
  ["03_lists" {"__" [1 2 3 4 5
                  1
